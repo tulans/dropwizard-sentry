@@ -20,4 +20,4 @@ How to use this plugin:
           release: 1.0.0
           sample.rate: 1.0
           
-  fieldMap is a map of key value pair where in you can add other fields that may be supported by sentry in future        
+fieldMap is a map of key value pair where in you can add other fields that may be supported by sentry in future
